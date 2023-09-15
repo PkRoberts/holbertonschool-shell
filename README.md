@@ -1,1 +1,1 @@
-Learning permissions for shell
+Learning shell
