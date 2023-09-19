@@ -1,1 +1,1 @@
-For Shell Project
+Learning shell
